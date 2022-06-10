@@ -1,0 +1,32 @@
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+facebookexternalhit/1.1
+facebookexternalhit/1.1;kakaotalk-scrap/1.0; +https://devtalk.kakao.com/t/scrap/33984
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+facebookexternalhit/1.1;line-poker/1.0
+facebookexternalhit/1.1 (compatible; Blueno/1.0; +http://naver.me/scrap)
+facebookexternalhit/1.1; Mozilla/5.0 (compatible; WorksOgCrawler/1.0.0;)
+facebookexternalhit/1.1;scrapbook-scraper/1.0; +https://blog.naver.com/whaleteam/221250531643
+facebookexternalhit/1.1;between-scrap/1.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0,gzip(gfe)
+FacebookExternalHit/1.0
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:213.32.4.247]
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:213.32.4.211]
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:213.32.4.102]
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:213.32.4.245]
+facebookexternalhit/1.1(+http://www.facebook.com/externalhit_uatext.php)+Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:213.32.4.224]
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:213.32.4.81]
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:213.32.4.95]
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:213.32.4.115]
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0 [ip:213.32.4.81]
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) Trident/7.0; Sleipnir6/6.4.4; SleipnirSiteUpdates/6.4.4)
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)+Mozilla/5.0 (Android 6.0.1; Xiaomi Redmi 4A) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+facebookexternalhit/1.1;line-poker/1.0,gzip(gfe)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Twitterbot/1.0
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot
+facebookexternalhit/1.1; Mozilla/5.0 (compatible; NaverTalk/1.0) ogcrawler
+facebookexternalhit/1.1 (+https://www.facebook.com/externalhit_uatext.php)
+facebookexternalhit/1.1; kakaotalk-scrap/1.0; +https://devtalk.kakao.com/t/scrap/33984,gzip(gfe)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML%2C like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+facebookexternalhit/1.2 (+http://www.facebook.com/externalhit_uatext.php)
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:31.13.127.3]
